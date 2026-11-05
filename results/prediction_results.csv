@@ -1,0 +1,4 @@
+image,resnet50_class_id,resnet50_label,resnet50_confidence,vit_class_id,vit_label,vit_confidence,your_observations
+images-3.jpeg,345,ox,0.597,345,ox,0.7619,
+image-79322-800.jpg,282,tiger cat,0.3697,281,tabby,0.7153,
+b5fab1a8ff1abafe66e862cb96d1285d (1).jpg,90,lorikeet,0.5321,90,lorikeet,0.4076,
